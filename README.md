@@ -1,12 +1,10 @@
-# compie2
+# guess the song
 
-> A Vue.js project
+> A Vue.js, Apple iTune API project
 
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
